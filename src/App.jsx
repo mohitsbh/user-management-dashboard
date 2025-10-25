@@ -42,9 +42,6 @@ function App() {
             </Routes>
           </main>
 
-          <footer className="app-footer">
-            <p>Made with love - User Management Dashboard 2025</p>
-          </footer>
           </div>
         </UsersProvider>
       </Router>
